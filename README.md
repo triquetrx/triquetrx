@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @triquetrx
+- 👋 Hola, I’m @triquetrx
 - 👀 I’m interested in Web Development
 - 💞️ I’d love to collaborate on projects with reactjs, vuejs, .net, java and any python based projects 
 - 📫 Drop a mail at zdkhan0786@gmail.com
